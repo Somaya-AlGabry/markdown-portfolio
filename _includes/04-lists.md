@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+*coffee
+*dark chocolate
+*Running
+*watching sunrise
+*setting on the sea
+*solving math
