@@ -1,6 +1,6 @@
-*coffee
-*dark chocolate
-*Running
-*watching sunrise
-*setting on the sea
-*solving math
+* coffee
+* dark chocolate
+* Running
+* watching sunrise
+* setting on the sea
+* solving math
